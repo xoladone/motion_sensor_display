@@ -1,5 +1,5 @@
 # motion_sensor_display
-A pythonscript to turn on RPi Display using a motion sensor
+A pythonscript to turn on RPi Display using a motion sensor.
 
 ## Hardware
 - Raspberry PI 3
